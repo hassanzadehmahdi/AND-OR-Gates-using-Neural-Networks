@@ -1,5 +1,5 @@
 # AND-OR-Gates-using-Neural-Networks
-In this project, we used Hebbian, Perceptron and Adaline neural networks to implement AND gate, and OR gate.
+In this project, I used Hebbian, Perceptron and Adaline neural networks to implement AND gate, and OR gate.
 
 ### Hebbian
 Hebbian Learning Rule, also known as Hebb Learning Rule, was proposed by Donald O Hebb. It is one of the first and also easiest learning rules in the neural network. It is used for pattern classification. It is a single layer neural network, i.e. it has one input layer and one output layer. The input layer can have many units, say n. The output layer only has one unit. Hebbian rule works by updating the weights between neurons in the neural network for each training sample.
